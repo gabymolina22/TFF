@@ -1,0 +1,223 @@
+.boton{
+          
+    display:inline-block;
+    width:15%;
+    padding:20px;
+    background: #239f7d;
+    width:15%;
+    text-align: center;
+    color:white;
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    box-shadow: 0px 0px 20px 5px #239f7d;
+
+   }
+
+  .boton:hover{
+
+    box-shadow: 0px 0px 20px 5px #72706f;
+    
+  }
+
+  #pp {
+  animation-duration: 1.3s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+#click{
+  font-family: 'Bubblegum Sans', cursive;
+  font-size: 48px;
+  color: #8fb884;
+  -webkit-text-stroke: 2px black;
+  display: block;
+  list-style: none;
+}
+#reason{
+  font-family: 'Bubblegum Sans', cursive;
+  font-size: 40px;
+  color: #eea8ff;
+  -webkit-text-stroke: 2px black;
+  display: block;
+  list-style: none;
+}
+#summary1{
+  font-family: 'Bubblegum Sans', cursive;
+  font-size: 30px;
+  color: white;
+  background-color: #8e3461;
+  height: 50px; 
+  width: 350px;
+  margin: 0; 
+  border-radius: 30px;
+  border-style: solid;
+  display: block;
+  list-style: none;
+}
+#summary2{
+  font-family: 'Bubblegum Sans', cursive;
+  font-size: 30px;
+  color: white;
+  background-color: #874b66 ;
+  height: 50px; 
+  width: 350px;
+  margin: 0; 
+  border-radius: 30px;
+  border-style: solid;
+  display: block;
+  list-style: none;
+}
+#summary3{
+  font-family: 'Bubblegum Sans', cursive;
+  font-size: 30px;
+  background-color: #7e5f6a ;
+  color: white;
+  height: 50px; 
+  width: 350px;
+  margin: 0; 
+  border-radius: 30px;
+  border-style: solid;
+  display: block;
+  list-style: none;
+}
+#summary4{
+  font-family: 'Bubblegum Sans', cursive;
+  font-size: 30px;
+  background-color: #72706f ;
+  color: white;
+  height: 50px; 
+  width: 350px;
+  margin: 0; 
+  border-radius: 30px;
+  border-style: solid;
+  display: block;
+  list-style: none;
+}
+#summary5{
+  font-family: 'Bubblegum Sans', cursive;
+  font-size: 30px;
+  background-color: #638074 ;
+  color: white;
+  height: 50px; 
+  width: 350px;
+  margin: 0; 
+  border-radius: 30px;
+  border-style: solid;
+  display: block;
+  list-style: none;
+}
+#summary6{
+  font-family: 'Bubblegum Sans', cursive;
+  font-size: 30px;
+  background-color: #4d9078 ;
+  color: white;
+  height: 50px; 
+  width: 350px;
+  margin: 0; 
+  border-radius: 30px;
+  border-style: solid;
+  display: block;
+  list-style: none;
+}
+#summary7{
+  font-family: 'Bubblegum Sans', cursive;
+  font-size: 30px;
+  background-color: #239f7d ;
+  color: white;
+  height: 50px; 
+  width: 350px;
+  margin: 0; 
+  border-radius: 30px;
+  border-style: solid;
+  display: block;
+  list-style: none;
+}
+#p1{
+  font-family: 'Sniglet', cursive;
+  font-size: 25px;
+  color: #8e3461;
+  background-color: #f6f6f6;
+  height: 60px; 
+  width: 805px;
+  margin: 0; 
+  border-radius: 10px;
+  border-style: dotted;
+}
+#p2{
+  font-family: 'Sniglet', cursive;
+  font-size: 25px;
+  color: #8a5168;
+  background-color: #f6f6f6;
+  height: 100px; 
+  width: 805px;
+  margin: 0; 
+  border-radius: 10px;
+  border-style: dotted;
+}
+#p3{
+  font-family: 'Sniglet', cursive;
+  font-size: 25px;
+  color: #836a6f;
+  background-color: #f6f6f6;
+  height: 75px; 
+  width: 805px;
+  margin: 0; 
+  border-radius: 10px;
+  border-style: dotted;
+}
+#p4{
+  font-family: 'Sniglet', cursive;
+  font-size: 25px;
+  color: #788177;
+  background-color: #f6f6f6;
+  height: 65px; 
+  width: 805px;
+  margin: 0; 
+  border-radius: 10px;
+  border-style: dotted;
+}
+#p5{
+  font-family: 'Sniglet', cursive;
+  font-size: 25px;
+  color: #68977e;
+  background-color: #f6f6f6;
+  height: 70px; 
+  width: 805px;
+  margin: 0; 
+  border-radius: 10px;
+  border-style: dotted;
+}
+#p6{
+  font-family: 'Sniglet', cursive;
+  font-size: 25px;
+  color: #4ead85;
+  background-color: #f6f6f6;
+  height: 95px; 
+  width: 805px;
+  margin: 0; 
+  border-radius: 10px;
+  border-style: dotted;
+}
+#p7{
+  font-family: 'Sniglet', cursive;
+  font-size: 25px;
+  color: #00c28c;
+  background-color: #f6f6f6;
+  height: 290px; 
+  width: 805px;
+  margin: 0; 
+  border-radius: 10px;
+  border-style: dotted;
+}
